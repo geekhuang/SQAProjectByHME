@@ -25,3 +25,12 @@ Software testing methods are traditionally divided into white- and black-box tes
 ## Black-box testing
 
 Black-box testing treats the software as a "black box", examining functionality without any knowledge of internal implementation. The tester is only aware of what the software is supposed to do, not how it does it. Black-box testing methods include: equivalence partitioning, boundary value analysis, all-pairs testing, state transition tables, decision table testing, fuzz testing, use case testing and so on.
+
+
+## Rate 5 classmates of homework 2
+
++ FuHua         13126070  A
++ FengXiangMin  13126069  A  
++ DingYi        13126062  A
++ DongXiao      13126064  A
++ QiuFang       13126120  A
